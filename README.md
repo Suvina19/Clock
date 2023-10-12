@@ -24,6 +24,11 @@ I started calculating the pendulum's swing using radians and watched a lot of tu
 
 https://github.com/Suvina19/Clock/assets/144509711/25e8caab-44cf-4a0d-8035-2abfcb827056
 
+<img width="671" alt="Screenshot 2023-10-11 at 13 55 22" src="https://github.com/Suvina19/Clock/assets/144509711/b5c01d6f-6b16-4e43-959e-3f234545fc35">
+
+<img width="1500" alt="Screenshot 2023-10-11 at 14 13 51" src="https://github.com/Suvina19/Clock/assets/144509711/d15d0c9d-be8e-4a87-abf1-3441201d7693">
+
+
 
 
 

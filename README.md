@@ -12,12 +12,13 @@ I had this idea to recreate the classic charm of a Grandfather clock, and I want
 ![image](https://github.com/Suvina19/Clock/assets/144509711/7d914c9a-d069-46ae-97d6-4b5c58e4c6d7)
 
 Process:
+I started calculating the pendulum's swing using radians and watched a lot of tutorials to understand the calculations. It seemed like a good plan until I tried to add in the clock's hands – hours, seconds, and minutes. That's when it all went crazy, which made me use ChatGPT. I got the code right for the clock hands in radians, which I have attached here, too, but I wanted a project that wasn't as tangled up in math, and that's how 'Time Flies' came to be.
 
 <img width="412" alt="Screenshot 2023-10-11 at 12 22 14" src="https://github.com/Suvina19/Clock/assets/144509711/2640b713-b2d2-4a50-9991-eeb178005982">
 
 <img width="671" alt="Screenshot 2023-10-11 at 13 55 15" src="https://github.com/Suvina19/Clock/assets/144509711/67820d32-a1d5-4306-8d88-d206d3c15a28">
 
-I started calculating the pendulum's swing using radians and watched a lot of tutorials to understand the calculations. It seemed like a good plan until I tried to add in the clock's hands – hours, seconds, and minutes. That's when it all went crazy, which made me use ChatGPT. I got the code right for the clock hands in radians, which I have attached here, too, but I wanted a project that wasn't as tangled up in math, and that's how 'Time Flies' came to be.
+
 
 
 
